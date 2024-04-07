@@ -46,10 +46,10 @@ if (url.includes("/amdc/mobileDispatch")) {
     }
   } else {
     if (list12306?.includes(opt12306)) {
-      $done({});    
-      } else {
+      $done();
+    } else {
       $done({});
-          }
+    }
   }
 } else {
   $done({});
