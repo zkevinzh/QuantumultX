@@ -40,7 +40,7 @@ if (url.includes("/amdc/mobileDispatch")) {
   ];
   if (isQuanX) {
     if (list12306?.includes(opt12306)) {
-      $done({ status: "HTTP/1.1 404 Not Found" });
+      $done({  });
     } else {
       $done({});
     }
