@@ -49,3 +49,8 @@ if (url.includes("/amdc/mobileDispatch")) {
       $done({});    
       } else {
       $done({});
+          }
+  }
+} else {
+  $done({});
+}
