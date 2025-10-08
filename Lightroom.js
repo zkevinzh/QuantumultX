@@ -18,7 +18,7 @@ hostname = photos.adobe.io
 
 [Script]
 
-^https:\/\/photos\.adobe\.io\/v2\/accounts* url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/lightroom.js
+^https:\/\/photos\.adobe\.io\/v2\/accounts* response-body=1 https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/lightroom.js
 
 *******************************/
 
