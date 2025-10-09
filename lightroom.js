@@ -1,6 +1,6 @@
 body = $response.body.replace(/while.{7}\n/, "");
 let obj = JSON.parse(body);
-obj.entitlement.status="trial_expired";
+obj.entitlement.status="creative cloud pro";
 obj.current_subs={
       "product_id": "creative cloud pro",
       "store": "adobe",
