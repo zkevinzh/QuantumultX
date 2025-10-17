@@ -1,6 +1,5 @@
 body = $response.body.replace(/while.{7}\n/, "");
 let obj = JSON.parse(body);
-obj.updated="2025-10-17T13:51:00.617073Z";
 obj.entitlement.status="subscriber";
 obj.current_subs={
       "product_id": "lightroom",
@@ -25,7 +24,7 @@ obj.current_subs={
       }
     };
 obj.entitlement.storage={
-      "used": 0,
+      "used": 1,
       "limit": 112742891520,
       "display_limit": 107374182400,
       "warn": 85899345920
