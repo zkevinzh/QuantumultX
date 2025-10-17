@@ -10,7 +10,7 @@ obj.entitlement = {
     purchase_date":"2025-10-07T12:41:39.856692Z"
   },
   storage: {
-    used: 6316803008,
+    used: 0,
     limit: 112742891520,
     display_limit: 107374182400,
     warn: 85899345920
