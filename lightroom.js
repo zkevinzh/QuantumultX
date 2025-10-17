@@ -7,10 +7,10 @@ obj.entitlement = {
   current_subs: {
     product_id: "lightroom",
     store: "adobe",
-    purchase_date: "2025-08-03T21:27:09.887016Z"
+    purchase_date":"2025-10-07T12:41:39.856692Z"
   },
   storage: {
-    used: 0,
+    used: 6316803008,
     limit: 112742891520,
     display_limit: 107374182400,
     warn: 85899345920
